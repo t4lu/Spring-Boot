@@ -1,5 +1,5 @@
 package br.com.generation.helloworld;
-/*Função: Exercício 1 Spring-boot
+/*Função: Exercício 2 Spring-boot
  * Autora: Talu - Turma 25
  * Data: 23.06.2021
 */
